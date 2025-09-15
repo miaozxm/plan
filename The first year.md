@@ -28,7 +28,7 @@ Such as:
         * 2 article to be read carefully
         * 4 articles to be read roughly
 
-I may list a list:
+Oh, I may list a list:
 | Items | Expectation | Upper limit | Low limit |
 | --- | --- | --- | --- |
 |Carefully read articles|3|5|2|
@@ -37,4 +37,33 @@ I may list a list:
 
 Sum it up, this text is to be help me to arrange the life of my first year of study. More details will be written in the month plan and the week plan.
 
-Latter, I will set the hyperlink to the month plan and the week plan.
+Latter, I will set the hyperlink to the month plan and the week plan here.
+
+A year can be divided into 4 parts. These are auttum semester, spring semester and two vocations.
+
+Accorroding to the academic calendar as image below, the first part is from 2025-09-8 to 2026-01-18, and then the first long vocation will come. The part composed of 19 weeks, and now leaves 18 weeks for me.
+
+ 
+![academic calendar](img\校历\xl2025-2026-01.jpg)
+
+So I divide these time into 3 sections, 1 section for 5 weeks, remaining 3 weeeks for flexibility, for preparation, summary, and review purposes.
+
+Each section consists of 5 weeks, with the first four weeks used to complete most of the planning, and the last week used for review, closing, and planning for the next section
+
+The first section is from 9/15 to 10/19.
+The second section is from 10/20 to 11/23.
+The third section is from 11/24 to 12/28.
+And the ending of the first part is from 12/29 to 1/18.
+
+As same, I can list a list for the schedule.
+|section|start|end|
+|-|-|-|
+|1|9/15|10/19|
+|2|10/20|11/23|
+|3|11/24|12/28|
+|ending|12/29|1/18|
+
+- [ ] 设计开发
+
+![academic calendar](img\校历\xl2025-2026-02.jpg)
+
