@@ -63,7 +63,6 @@ As same, I can list a list for the schedule.
 |3|11/24|12/28|
 |ending|12/29|1/18|
 
-- [ ] 设计开发
 
 ![academic calendar](img/校历/xl2025-2026-02.jpg)
 
