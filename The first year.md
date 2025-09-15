@@ -44,7 +44,7 @@ A year can be divided into 4 parts. These are auttum semester, spring semester a
 Accorroding to the academic calendar as image below, the first part is from 2025-09-8 to 2026-01-18, and then the first long vocation will come. The part composed of 19 weeks, and now leaves 18 weeks for me.
 
  
-![academic calendar](img\校历\xl2025-2026-01.jpg)
+![academic calendar](img/校历/xl2025-2026-01.jpg)
 
 So I divide these time into 3 sections, 1 section for 5 weeks, remaining 3 weeeks for flexibility, for preparation, summary, and review purposes.
 
@@ -65,5 +65,5 @@ As same, I can list a list for the schedule.
 
 - [ ] 设计开发
 
-![academic calendar](img\校历\xl2025-2026-02.jpg)
+![academic calendar](img/校历/xl2025-2026-02.jpg)
 
