@@ -80,5 +80,7 @@ And the first two subaim should be carried out simultaneously in the first two p
 
 And more details will be written in the [the first section plan (click me to open)](The%20first%20part\The%201st%20part%20of%201st%20year.md)
 
+[the first section plan (click me to open)](The first part\The 1st part of 1st year.md)
+
 ![academic calendar](../img/校历/xl2025-2026-02.jpg)
 
