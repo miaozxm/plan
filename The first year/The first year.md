@@ -1,5 +1,5 @@
 # The first year of my study
-## 2025.9.14
+## Abstract(2025.9.14)
 >From now to the end of this study year. There are 10 months for me to get ready to start my research.
 
 >I will make plans for every season, every month, every week and every day. I will.
@@ -63,6 +63,22 @@ As same, I can list a list for the schedule.
 |3|11/24|12/28|
 |ending|12/29|1/18|
 
+## Aim
+**Publish a paper**
+
+### Subaim
+- [ ] Reproduce senior's works and know the principles of the works.
+- [ ] Produce a great idea.
+- [ ] Test the posibility of the idea.
+- [ ] Let the idea come true.
+- [ ] Write the paper.
+
+So I can pack the subaims into different parts. Sure, it must be follow the time evolution.
+The first part of this year is from 9/15 to 1/18. I will finish the first three subaims in this part.
+
+And the first two subaim should be carried out simultaneously in the first two parts.
+
+And more details will be written in the [the first section plan (click me to open)](The%20first%20year.md)
 
 ![academic calendar](../img/校历/xl2025-2026-02.jpg)
 
