@@ -10,7 +10,7 @@
 This year, I need finish all of my courses, and get a stable base for my future research.
 
 1. Finish all of my courses.
-2. Familarize with my research topic.
+2. Familiar with my research topic.
     1. Follow the senior LiYi.
     2. Familarize with the tools of the research. And arrange the deadline of every item.
 3. Read the most advancing papers every week and exchange with my tutor and seniors.
