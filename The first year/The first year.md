@@ -78,7 +78,8 @@ The first part of this year is from 9/15 to 1/18. I will finish the first three 
 
 And the first two subaim should be carried out simultaneously in the first two parts.
 
-And more details will be written in the [the first section plan (click me to open)](The%20first%20part\The%201st%20part%20of%201st%20year.md)
+And more details will be written in the [the first section plan (click me to open)](The%20first%20part\The%201st%20part%20of%201st%20year.md)(en...It seems like strike. You can click the path left to open it by your cute hand.)
+
 
 ![academic calendar](../img/校历/xl2025-2026-02.jpg)
 
