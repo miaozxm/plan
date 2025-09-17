@@ -51,10 +51,10 @@ So I divide these time into 3 sections, 1 section for 5 weeks, remaining 3 weeek
 
 Each section consists of 5 weeks, with the first four weeks used to complete most of the planning, and the last week used for review, closing, and planning for the next section
 
-The first section is from 9/15 to 10/19.
-The second section is from 10/20 to 11/23.
-The third section is from 11/24 to 12/28.
-And the ending of the first part is from 12/29 to 1/18.
+* The first section is from 9/15 to 10/19.
+* The second section is from 10/20 to 11/23.
+* The third section is from 11/24 to 12/28.
+* And the ending of the first part is from 12/29 to 1/18.
 
 As same, I can list a list for the schedule.
 |section|start|end|
@@ -67,23 +67,21 @@ As same, I can list a list for the schedule.
 ## Aim
 **Publish Paper in a/~~THE~~ Good/~~BEST~~ Journal**
 
-### Subaim
+### Sub aim
 - [ ] Reproduce senior's works and know the principles of the works.
 - [ ] Produce a great idea.
 - [ ] Write a review about the topic and the idea.
-- [ ] Test the posibility of the idea.
+- [ ] Test the possibility of the idea.
 - [ ] Let the idea come true.
 - [ ] Write the paper.
 
-So I can pack the subaims into different parts. Sure, it must be follow the time evolution.
+So I can pack the sub aims into different parts. Sure, it must be follow the time evolution. There are some note as follow.
 
+- The first part of this year is from 9/15 to 1/18. I will finish the first three subaims in this part.
+- And the first two subaim should be carried out simultaneously in the first two parts.
+- And more details will be written in the [the first section plan (click me to open)](TheFirstPart\The1stPartOf1stYear.md)(en...It seems like strike. You can click the path left to open it by your cute hand.)
 
-
-> The first part of this year is from 9/15 to 1/18. I will finish the first three subaims in this part.
->
-> And the first two subaim should be carried out simultaneously in the first two parts.
->
-> And more details will be written in the [the first section plan (click me to open)](TheFirstPart\The1stPartOf1stYear.md)(en...It seems like strike. You can click the path left to open it by your cute hand.)
+Those are arrangements about the first part of my postgraduate study.
 
 
 ![academic calendar](../img/校历/xl2025-2026-02.jpg)
