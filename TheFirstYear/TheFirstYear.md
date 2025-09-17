@@ -65,7 +65,7 @@ As same, I can list a list for the schedule.
 |ending|12/29|1/18|
 
 ## Aim
-**Publish A/~~THE~~ GREAT/~~EST~~ paper**
+**Publish Paper in a/~~THE~~ Good/~~BEST~~ Journal**
 
 ### Subaim
 - [ ] Reproduce senior's works and know the principles of the works.
