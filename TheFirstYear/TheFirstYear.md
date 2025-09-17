@@ -1,5 +1,5 @@
 # The first year of my study
-> Notice: This passage will publish at [github](https://github.com/miaozxm/plan/blob/main/The%20first%20year/The%20first%20year.md), you can click the link to see it easily if your webserver is good.
+> Notice: This passage will publish at [github](https://github.com/miaozxm/plan/blob/main/TheFirstYear/TheFirstYear.md), you can click the link to see it easily if your webserver is good.
 ## Abstract(2025.9.14)
 >From now to the end of this study year. There are 10 months for me to get ready to start my research.
 
