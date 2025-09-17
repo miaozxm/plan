@@ -70,6 +70,7 @@ As same, I can list a list for the schedule.
 ### Subaim
 - [ ] Reproduce senior's works and know the principles of the works.
 - [ ] Produce a great idea.
+- [ ] Write a review about the topic and the idea.
 - [ ] Test the posibility of the idea.
 - [ ] Let the idea come true.
 - [ ] Write the paper.
